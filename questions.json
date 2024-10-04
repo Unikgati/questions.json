@@ -1,11 +1,14 @@
 {
 	"Questions": [
-		 ["Sports" , "What country won the very first FIFA World Cup in 1930?" , "Uruguay,Brazil,Germany,Peru" , "Uruguay"],
-		 ["Sports" , "Which boxer was known as “The Greatest” and “The People’s Champion”?" , "Rocky Marciano,George Foreman,Mike Tyson,Muhammad Ali" , "Muhammad Ali"],
-		 ["Technology" , "What’s the shortcut for the “copy” function on most computers?" , "ctrl a,ctrl c,ctrl v,ctrl x" , "ctrl c"],
-		 ["Technology" , "Which email service is owned by Microsoft?" , "Gmail,ProtonMail,Hotmail,AOL" , "Hotmail"],
-		 ["Health" , "What percentage of our bodies is made up of water?" , "60-65%,25-35%,40-50%,75-85%" , "60-65%"],
-		 ["Health" , "Which element is said to keep bones strong?" , "Potassium,Calcium,Vitamins,Phosphorus" , "Calcium"]
+		["Bahasa Arab", "Apa arti dari مُعَلِّمٌ?", "Pelajaran,Guru,Murid,Sekolah", "Guru"],
+		["Bahasa Arab", "Apa arti dari تَارِيخٌ?", "Bahasa Arab,Matematika,Sejarah,Sains", "Sejarah"],
+		["Bahasa Arab", "Apa arti dari جُغْرَافِيَا?", "Biologi,Fisika,Geografi,Kimia", "Geografi"],
+		["Bahasa Arab", "Apa arti dari رِيَاضِيَّاتٌ?", "Matematika,Bahasa Inggris,Seni,Sejarah", "Matematika"],
+		["Bahasa Arab", "Apa arti dari عُلُومٌ?", "Sains,Bahasa Indonesia,Seni,Bahasa Inggris", "Sains"],
+		["Bahasa Arab", "Apa arti dari كِيمِيَاءٌ?", "Kimia,Fisika,Geografi,Biologi", "Kimia"],
+		["Bahasa Arab", "Apa arti dari فَنٌّ؟", "Matematika,Seni,Bahasa Inggris,Sejarah", "Seni"],
+		["Bahasa Arab", "Apa arti dari أَدَبٌ?", "Sastra,Bahasa Arab,Fisika,Geografi", "Sastra"],
+		["Bahasa Arab", "Apa arti dari فِيزِيَاءٌ?", "Kimia,Biologi,Fisika,Sains", "Fisika"],
+		["Bahasa Arab", "Apa arti dari أَحْيَاءٌ?", "Biologi,Sains,Matematika,Kimia", "Biologi"]
 	]
-	
 }
