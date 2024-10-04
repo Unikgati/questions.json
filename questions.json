@@ -1,0 +1,11 @@
+{
+	"Questions": [
+		 ["Sports" , "What country won the very first FIFA World Cup in 1930?" , "Uruguay,Brazil,Germany,Peru" , "Uruguay"],
+		 ["Sports" , "Which boxer was known as “The Greatest” and “The People’s Champion”?" , "Rocky Marciano,George Foreman,Mike Tyson,Muhammad Ali" , "Muhammad Ali"],
+		 ["Technology" , "What’s the shortcut for the “copy” function on most computers?" , "ctrl a,ctrl c,ctrl v,ctrl x" , "ctrl c"],
+		 ["Technology" , "Which email service is owned by Microsoft?" , "Gmail,ProtonMail,Hotmail,AOL" , "Hotmail"],
+		 ["Health" , "What percentage of our bodies is made up of water?" , "60-65%,25-35%,40-50%,75-85%" , "60-65%"],
+		 ["Health" , "Which element is said to keep bones strong?" , "Potassium,Calcium,Vitamins,Phosphorus" , "Calcium"]
+	]
+	
+}
